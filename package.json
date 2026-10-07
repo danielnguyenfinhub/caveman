@@ -38,6 +38,8 @@
   ],
   "packageManager": "pnpm@10.14.0",
   "dependencies": {
-    "@caveman-ai/cli": "^1.1.0"
+    "@caveman-ai/cli": "^1.1.0",
+    "@caveman-ai/middleware": "^1.0.0",
+    "@caveman-ai/sdk": "^1.2.0"
   }
 }
